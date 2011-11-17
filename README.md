@@ -4,8 +4,8 @@ Hammock time!
 
 ## Usage
 
-   lein plugin install lein-hammock 0.1.0
-   lein hammock
+    lein plugin install lein-hammock 0.1.0
+    lein hammock
 
 ## License
 
